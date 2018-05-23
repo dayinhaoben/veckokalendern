@@ -1,8 +1,18 @@
 body {
-  margin:20% auto;
+}
+
+.menu {
+  margin: 1% auto;
+  text-align: center
+}
+
+.menu_link {
+  margin-right: 10px;
+  font-size: 22px;
 }
 
 .main {
+  margin: 16% auto;
   text-align: center;
 }
 .main_header {
